@@ -141,7 +141,9 @@ I thrive in cross-functional, Agile/SCRUM teams, and bring global support experi
 🧠 Code Repository: portfolio-rodolfo
 My complete development portfolio is organized in a dedicated repository:
 
-📁 github.com/Rodolfo-Software/portfolio-rodolfo
+📁 https://github.com/Rodolfo-Software/portfolio-rodolfo
+
+
 
 This repository contains structured directories showcasing real-world experience in:
 
